@@ -1,1 +1,1 @@
-# Stratego_Java
+# Stratego game Java project 
